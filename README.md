@@ -32,7 +32,7 @@ Any modern web browser (e.g., Chrome, Firefox, Safari).
 **How to Run:**
 **1. Clone the repository:**
 
-git clone https://github.com/your-username/zomato-landing-page-clone.git  
+git clone https://github.com/TanishSrinivasan/Zomato-Landing-Page-Clone.git  
 
 **2. Navigate to the project directory:**
 
