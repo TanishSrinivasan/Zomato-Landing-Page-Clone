@@ -3,18 +3,20 @@
 This is a responsive clone of the Zomato landing page created using HTML and CSS. The project replicates the design and layout of Zomato's official landing page to showcase frontend development skills.
 
 
-**Features**
+**Features:**
 Responsive Design: Ensures compatibility across devices (desktop, tablet, and mobile).
 Pixel-Perfect Layout: Closely matches the original Zomato landing page.
 Custom Styling: Uses clean and organized CSS for an appealing look and feel.
 
 
-**Technologies Used**
+**Technologies Used:**
+
 HTML5: For structuring the web page.
 CSS3: For styling and layout.
 
 
 **Prerequisites :**
+
 Any modern web browser (e.g., Chrome, Firefox, Safari).
 
 
