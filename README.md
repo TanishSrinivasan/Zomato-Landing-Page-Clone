@@ -1,4 +1,4 @@
-**Zomato Landing Page Clone**
+⁹**Zomato Landing Page Clone**
 
 This is a responsive clone of the Zomato landing page created using HTML and CSS. The project replicates the design and layout of Zomato's official landing page to showcase frontend development skills.
 
@@ -52,10 +52,6 @@ These instructions will get you a copy of the project up and running on your loc
 **Contributing :**
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss any potential changes or fixes.
 
-
-
-**License :**
-This project is open source and available under the MIT License.
 
 
 
