@@ -11,8 +11,9 @@ Custom Styling: Uses clean and organized CSS for an appealing look and feel.
 
 **Technologies Used:**
 
-HTML5: For structuring the web page.
-CSS3: For styling and layout.
+**HTML:** For structuring the web page.
+
+**CSS:** For styling and layout.
 
 
 **Prerequisites :**
@@ -22,15 +23,15 @@ Any modern web browser (e.g., Chrome, Firefox, Safari).
 
 **How to Run:**
 
-1. Clone the repository:
+**1. Clone the repository:**
 
 git clone https://github.com/your-username/zomato-landing-page-clone.git  
 
-2. Navigate to the project directory:
+**2. Navigate to the project directory:**
 
 cd zomato-landing-page-clone  
 
-3. Open the index.html file in your browser.
+**3. Open the index.html file in your browser.**
 
 
 **Getting Started :**
